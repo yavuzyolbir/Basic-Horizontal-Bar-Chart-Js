@@ -22,6 +22,11 @@ Css:
 <link rel="stylesheet" href="chart.css">
 ```
 
+Js:
+```
+<script src="chart.js"></script>
+```
+
 Data:
 ```
 const myLabels = [
