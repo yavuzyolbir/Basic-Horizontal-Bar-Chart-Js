@@ -1,5 +1,7 @@
 # Basic Horizontal Bar Chart
 
+![Chart.](http://yavuzyolbir.com/github/basic-horizontal-bar-chart.jpg "Horizontal Bar Chart")
+
 Basic Horizontal Bar Chart is a simple graph function like its called.
 Basic but smart. 
 
@@ -24,34 +26,44 @@ Data:
 ```
 const myLabels = [
     {
-        name: "Easy to use",
-        category: "Positive",
-        percent: 40,
+        name: "Quisque",
+        category: "Mauris",
+        percent: 60,
     },
     {
-        name: "Reliable",
-        category: "Overall",
-        percent: 20,
+        name: "Imperdiet",
+        category: "Aenean",
+        percent: 30,
     },
     {
-        name: "Difficiult",
-        category: "Negative",
+        name: "Consequat",
+        category: "Suspendisse",
+        percent: 50,
+    },
+    {
+        name: "Integer",
+        category: "Mauris",
         percent: 10,
+    },
+    {
+        name: "Volutpat",
+        category: "Aenean",
+        percent: 40,
     },
 ];
 
 const myCategories = [
     {
-        name: "Positive",
-        color: "#355DEB",
+        name: "Mauris",
+        color: "#3C58EF",
     },
     {
-        name: "Overall",
-        color: "#65AEEE",
+        name: "Aenean",
+        color: "#EF6440",
     },
     {
-        name: "Negative",
-        color: "#2A3A48",
+        name: "Suspendisse",
+        color: "#24252A",
     },
 ];
 ```
