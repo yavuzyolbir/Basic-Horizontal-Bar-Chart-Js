@@ -1,7 +1,5 @@
 # Basic Horizontal Bar Chart
 
-![Chart.](http://yavuzyolbir.com/github/basic-horizontal-bar-chart.jpg "Horizontal Bar Chart")
-
 Basic Horizontal Bar Chart is a simple graph function like its called.
 Basic but smart. 
 
