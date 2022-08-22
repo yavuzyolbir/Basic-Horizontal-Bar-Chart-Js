@@ -3,6 +3,8 @@
 Basic Horizontal Bar Chart is a simple graph function like its called.
 Basic but smart. 
 
+![alt text](https://github.com/yavuzyolbir/Basic-Horizontal-Bar-Chart-Js/blob/main/example-image.jpeg)
+
 
 - Auto resizing by highest percent value
 - Basic Usage
